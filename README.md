@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<a href="https://app.daily.dev/umairahmed17"><img src="https://api.daily.dev/devcards/81820088b3d54ae7a695190a786100ca.png?r=vue" width="400" alt="Umair Ahmad's Dev Card"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -41,6 +43,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
