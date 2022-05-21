@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Umair</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Umair Ahmed -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/umair-ahmad-95b32a203/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/umair-ahmad-95b32a203/"><img src="https://img.shields.io/badge/-Umair%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:UmairAhmed1257@protonmail.com"><img src="https://img.shields.io/badge/-UmairAhmed1257@protonmail.com-474f8f?style=flat&logo=Protonmail&logoColor=white"/></a>
 </p>
