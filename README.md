@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/umairahmed17"><img src="https://api.daily.dev/devcards/81820088b3d54ae7a695190a786100ca.png?r=vue" width="400" alt="Umair Ahmad's Dev Card"/></a>
 
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umairahmed17)
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
