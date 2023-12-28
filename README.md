@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<a href="https://app.daily.dev/umairahmed17"><img src="https://api.daily.dev/devcards/81820088b3d54ae7a695190a786100ca.png?r=vue" width="400" alt="Umair Ahmad's Dev Card"/></a>
-
 ![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umairahmed17)
 
 ### 🛠 &nbsp;Tech Stack
